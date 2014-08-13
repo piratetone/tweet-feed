@@ -1,27 +1,17 @@
-== README
+== Tweet Feed == 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+Code Examples
+* http://codepen.io/jasonmayes/pen/Ioype
+* http://codepen.io/jasonmayes/pen/rDyqj
+* http://www.jasonmayes.com/projects/twitterApi/#sthash.g9gHQswW.dpbs
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Folder With Notes
+* https://drive.google.com/#folders/0B2PhnTMkkKqhMEtfWnlFNEVsWDQ
 
 
 Please feel free to use a different markup language if you do not plan to run
