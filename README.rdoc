@@ -5,6 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
+
 Code Examples
 * http://codepen.io/jasonmayes/pen/Ioype
 * http://codepen.io/jasonmayes/pen/rDyqj
@@ -13,6 +14,13 @@ Code Examples
 Folder With Notes
 * https://drive.google.com/#folders/0B2PhnTMkkKqhMEtfWnlFNEVsWDQ
 
+Obtaining Twitter ID 
+* note: you will need to obtain the widget id which can grabbed from the Twitter widget page
+* type in the person's handle and preview it, and then grab the code from the browser address bar
+
+
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
