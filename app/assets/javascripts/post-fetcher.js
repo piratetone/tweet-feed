@@ -166,7 +166,7 @@ var twitterFetcher = function() {
 // id "tweets". Also automatically hyperlinks URLS and user mentions and
 // hashtags.
 var config1 = {
-  "id": '345170787868762112',
+  "id": '501427378397007872',
   "domId": 'example1',
   "maxTweets": 1,
   "enableLinks": true
@@ -198,7 +198,7 @@ twitterFetcher.fetch(config2);
 // custom format to display the date/time of the post, and does not show
 // retweets.
 var config3 = {
-  "id": '345690956013633536',
+  "id": '501427944703549440',
   "domId": 'example3',
   "maxTweets": 3,
   "enableLinks": true,
