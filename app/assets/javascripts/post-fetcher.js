@@ -200,7 +200,7 @@ twitterFetcher.fetch(config2);
 var config3 = {
   "id": '501427944703549440',
   "domId": 'example3',
-  "maxTweets": 3,
+  "maxTweets": 10,
   "enableLinks": true,
   "showUser": false,
   "showTime": true,
@@ -226,9 +226,9 @@ twitterFetcher.fetch(config3);
 // if you need full control over the output.
 
 var config4 = {
-  "id": '345690956013633536',
+  "id": '501440678828580864',
   "domId": '',
-  "maxTweets": 3,
+  "maxTweets": 10,
   "enableLinks": true, 
   "showUser": true,
   "showTime": true,
