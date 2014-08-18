@@ -238,6 +238,7 @@ var config4 = {
   "showInteraction": false
 };
 
+
 function handleTweets(tweets){
     var x = tweets.length;
     var n = 0;
