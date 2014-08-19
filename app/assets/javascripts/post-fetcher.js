@@ -181,9 +181,9 @@ twitterFetcher.fetch(config1);
 // request to Twitter specifiying we would like results where possible in
 // English language (eg for Twitter phrases like "posted on" or "time ago").
 var config2 = {
-  "id": '347099293930377217',
+  "id": '501518834658844673',
   "domId": 'example2',
-  "maxTweets": 5,
+  "maxTweets": 10,
   "enableLinks": true, 
   "showUser": true,
   "showTime": true,
